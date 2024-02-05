@@ -65,9 +65,10 @@ const createUser = async (userData: User) => {
     superAdmin: userData.super_admin ?? false,
   };
 
+  // eller kör bara utan lösenord för alla
   return userData.password &&
     userData.password.length >= 8 &&
-    userData.password.startsWith("123")
+    !userData.password.startsWith("123")
     ? await clerkClient.users.createUser({
         externalId: externalId,
         emailAddress: [userData.email],

@@ -1,0 +1,35 @@
+
+{
+  "userId": {
+    "$oid": "5bc5d013a981aaaebc0e1f67"
+  },
+  "status": 422,
+  "clerkTraceId": "99d9697d2063d573c12ec20644fe25a6",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_identifier_exists",
+      "message": "That email address is taken. Please try another.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "5bcdabc9a4dbbb3e34002cb6"
+  },
+  "status": 422,
+  "clerkTraceId": "3b7d850ae69eab0e4d52b26fba9fc51f",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_identifier_exists",
+      "message": "That email address is taken. Please try another.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
