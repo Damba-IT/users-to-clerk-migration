@@ -1,0 +1,19 @@
+{
+  "name": "clerk-user-migration",
+  "version": "0.0.1",
+  "description": "## Description",
+  "main": "index.ts",
+  "bin": "./index.ts",
+  "keywords": [],
+  "license": "ISC",
+  "scripts": {
+    "start": "bun index.ts"
+  },
+  "dependencies": {
+    "@clerk/clerk-sdk-node": "^4.12.21",
+    "bun": "^1.0.12",
+    "dotenv": "^16.3.1",
+    "ora": "^7.0.1",
+    "zod": "^3.22.4"
+  }
+}

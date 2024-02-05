@@ -1,0 +1,3313 @@
+
+{
+  "userId": {
+    "$oid": "5bf3c167e5495742570effd2"
+  },
+  "status": 422,
+  "clerkTraceId": "ee04c7d5e5dc71eda686a2f69794c216",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "5c2db94f4fdab91d0f219ed2"
+  },
+  "status": 422,
+  "clerkTraceId": "e9c506b19221bc87009e4462fc3ff928",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "5c4edef14fdab90ef51adf03"
+  },
+  "status": 422,
+  "clerkTraceId": "06d6407c2ad71a3d349d1971989b4d44",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "5c6be55f4fdab924d0444b23"
+  },
+  "status": 422,
+  "clerkTraceId": "44caaf70791ed5fc70ec61b4988fcd23",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "5caf0fdf4fdab979c46fffe2"
+  },
+  "status": 422,
+  "clerkTraceId": "e36a0a4ebce6c3558b83bb0825c9f99b",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "5ceb55e94fdab9795d5ee3a3"
+  },
+  "status": 422,
+  "clerkTraceId": "d6b601e1f1d0e3cda99a78cce9bc347f",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_identifier_exists",
+      "message": "That email address is taken. Please try another.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "5ee762be4fdab92a487cb662"
+  },
+  "issues": [
+    {
+      "code": "invalid_type",
+      "expected": "string",
+      "received": "null",
+      "path": [
+        "last_name"
+      ],
+      "message": "Expected string, received null"
+    }
+  ],
+  "name": "ZodError",
+  "originalLine": 512,
+  "originalColumn": 10
+}
+{
+  "userId": {
+    "$oid": "5f1005cc4fdab9531c525e13"
+  },
+  "status": 422,
+  "clerkTraceId": "a093d83b93f4d9c87247fecf05823e4f",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "5f5728c64fdab93999445fe2"
+  },
+  "status": 422,
+  "clerkTraceId": "172a09dc5aef7438a0da2d400ae43038",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_identifier_exists",
+      "message": "That email address is taken. Please try another.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "5fb845054fdab967c315b6e3"
+  },
+  "status": 422,
+  "clerkTraceId": "cf5b2a7994142ae8e47de5fa4d4c1190",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_identifier_exists",
+      "message": "That email address is taken. Please try another.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "5fe2e2bb4fdab90bf5078b32"
+  },
+  "status": 422,
+  "clerkTraceId": "dd36e703477b4b3a2a8ccbe097a930bf",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_identifier_exists",
+      "message": "That email address is taken. Please try another.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "605b49ee4fdab943d24c12f3"
+  },
+  "status": 422,
+  "clerkTraceId": "fd98a4f3ef7d872fb6feab2a84fe22ba",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "60798ab04fdab902625128a4"
+  },
+  "status": 422,
+  "clerkTraceId": "74f83a918338f052231f8c4bdcac8869",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "612486a94fdab9110d5ee8d2"
+  },
+  "status": 422,
+  "clerkTraceId": "ccf3f4e67c51fceb2722d062acf5db83",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "612486e84fdab9110b6a27f2"
+  },
+  "status": 422,
+  "clerkTraceId": "f4a0a6efbac1a525dc1fdf641bf80aab",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "6124877d4fdab90f634014b4"
+  },
+  "status": 422,
+  "clerkTraceId": "85dbcde6ec8eb805e42928e9c714a09b",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "612487e34fdab9110d5ee8d4"
+  },
+  "status": 422,
+  "clerkTraceId": "e4bdaa72c51ffe1bf837d6597ca34b8d",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "612488354fdab90f5b442012"
+  },
+  "status": 422,
+  "clerkTraceId": "e16afa3018301a072678430a50ea47e6",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "61248d844fdab90f5d2cdd82"
+  },
+  "status": 422,
+  "clerkTraceId": "5461ba5536e6fcfb052e37345d52ed8d",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "612ccc2d4fdab954537ec065"
+  },
+  "status": 422,
+  "clerkTraceId": "68bfc759dc78f2f0577b9bcef7b0bfad",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "612ccd424fdab9545268fab3"
+  },
+  "status": 422,
+  "clerkTraceId": "8ccf6abfbec5499a81f501f142326c13",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "612e2ff64fdab97815423b22"
+  },
+  "status": 422,
+  "clerkTraceId": "1aeb36a15df4699c52d3baf389a3ffdd",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "6140864b4fdab935a011c363"
+  },
+  "status": 422,
+  "clerkTraceId": "361d0c11486eba3d5a30f6a454f547b0",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "614086d04fdab932253138d2"
+  },
+  "status": 422,
+  "clerkTraceId": "47067f6db207b4ceb6ffcee17cec749e",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "614087624fdab932253138d8"
+  },
+  "status": 422,
+  "clerkTraceId": "4c02ed987bd07196e127adda29c74820",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "61409d734fdab932b85c8bb2"
+  },
+  "status": 422,
+  "clerkTraceId": "58c9b6f131ebdb34cf2e777097b96d4b",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "6149beb84fdab9054a278dc3"
+  },
+  "status": 422,
+  "clerkTraceId": "a04f025c0444733d433013c1a2116a02",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "6151c9644fdab93aa3143dd4"
+  },
+  "status": 422,
+  "clerkTraceId": "3a8503b7a25f3c7c2ad38aae17103537",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "615ab4af4fdab9192a1a3b52"
+  },
+  "status": 422,
+  "clerkTraceId": "8ff6cf1d0bd1b0c6d8f0ef5012cbec26",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "615ab8454fdab9191d143744"
+  },
+  "status": 422,
+  "clerkTraceId": "183db26c39460a1be0aebeef8e239304",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "615bfc184fdab938ee57db22"
+  },
+  "status": 422,
+  "clerkTraceId": "5e9b433065cc5594e75584d24fd155b9",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "617d5dd34fdab958c76d3b94"
+  },
+  "status": 422,
+  "clerkTraceId": "113e7e5fe5856f389ae96aa15e54793c",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "617fa8264fdab913ee282114"
+  },
+  "status": 422,
+  "clerkTraceId": "81277cf26f2de6e51714b41ebeca6bb9",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "617fa85f4fdab913ea6df792"
+  },
+  "status": 422,
+  "clerkTraceId": "6107d78ad7d78c480f7aa1f1d78ba822",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "617fa8984fdab913f05a4c42"
+  },
+  "status": 422,
+  "clerkTraceId": "7571e9309e6d39104a9b23ca5971c743",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "618aa5244fdab90fa001de85"
+  },
+  "status": 422,
+  "clerkTraceId": "3fc089312f57ce06721783e6cd756e2a",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "61a0a4494fdab9035b47ba32"
+  },
+  "status": 422,
+  "clerkTraceId": "814865f1a949a0db0e3e3ce9051b7897",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "61b35d734fdab9452b3e1a32"
+  },
+  "status": 422,
+  "clerkTraceId": "c689eccbdf1228c21c1c8851aab04fd3",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "61ba0b944fdab93e227fa7f2"
+  },
+  "status": 422,
+  "clerkTraceId": "c7ba7972e5b4cfd97e1a5758a4e73cc7",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "61f2c7144fdab96b950bf5a3"
+  },
+  "status": 422,
+  "clerkTraceId": "40bff119e94ade684ae8a684e5ee7ca5",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "61f934224fdab956e579b4f2"
+  },
+  "status": 422,
+  "clerkTraceId": "5944c1b5a9ec0ce1404a7cf1b21480d4",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "6204bd984fdab963034cfac4"
+  },
+  "status": 422,
+  "clerkTraceId": "e972f16353438ac7440d95e7b6353669",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "6218cecd4fdab95f9f532bb2"
+  },
+  "status": 422,
+  "clerkTraceId": "0bdc9247a069925b72a096dcc2f1799e",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "6225f5134fdab92fc5160c76"
+  },
+  "status": 422,
+  "clerkTraceId": "b997721dc40e5d0b25cfae7988297820",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "62386d354fdab918ab457524"
+  },
+  "status": 422,
+  "clerkTraceId": "6ffef32d1095760f1f1fe53cb64c78a9",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "62386e4c4fdab917a26e5472"
+  },
+  "status": 422,
+  "clerkTraceId": "6a5b06e5782375a9a6df02a4b3336377",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "62386eb44fdab917a518ab23"
+  },
+  "status": 422,
+  "clerkTraceId": "07c74c0795abfcd8b1fd531324ff8e99",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "624a80894fdab913c2548cf2"
+  },
+  "status": 422,
+  "clerkTraceId": "9a4914bd6b24918b6a1af361dd8f4492",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "626795294fdab99f8670ece2"
+  },
+  "status": 422,
+  "clerkTraceId": "a2356e64dd3d0082ab79a96361a3cecb",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "626fb2914fdab92ebc39c835"
+  },
+  "status": 422,
+  "clerkTraceId": "70c395060cb6549db6fa0e98ddef4164",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "626fb4504fdab9321f1a1075"
+  },
+  "status": 422,
+  "clerkTraceId": "2729a760df62da293a2d61b6e6cc050a",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "626fb4e34fdab929ee035b04"
+  },
+  "status": 422,
+  "clerkTraceId": "d671c0a20e8273af5b11627e1ccee42a",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "626fb6584fdab931f7316ab3"
+  },
+  "status": 422,
+  "clerkTraceId": "e29bb267ebf00f172d1e9ec7c4f819bb",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "626fb6c74fdab927d918f2a7"
+  },
+  "status": 422,
+  "clerkTraceId": "7131f6d73b06b61fac178dd69fcdb007",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "626fb7344fdab927d61e0e93"
+  },
+  "status": 422,
+  "clerkTraceId": "7dbe4a5d4a8423e181294aa339319ee8",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "626fb77d4fdab93220388897"
+  },
+  "status": 422,
+  "clerkTraceId": "3eacf57d9ddbb557073798ab359c93f3",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "626fb7ab4fdab92be2783b96"
+  },
+  "status": 422,
+  "clerkTraceId": "9920b9da120be72344cc2c42247fc7aa",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "626fb7d74fdab927d61e0e95"
+  },
+  "status": 422,
+  "clerkTraceId": "37eafd0f720c4c5597e88cf01695d27f",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "626fb80e4fdab92be2783b98"
+  },
+  "status": 422,
+  "clerkTraceId": "1928fe58e6e3cd92dc149afacd9fc0cd",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "627369f84fdab983c0712612"
+  },
+  "status": 422,
+  "clerkTraceId": "0aa10a016bdb0774176dfdd36fa4ed77",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "62790b1b4fdab92c4b28f166"
+  },
+  "status": 422,
+  "clerkTraceId": "3cc44a63450f5e5aa39c38b02cb0bc06",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "628383694fdab942975ed7c7"
+  },
+  "status": 422,
+  "clerkTraceId": "02f22c003b94b4e0737a9003681b8ac9",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "628384ba4fdab942ac5d6f2c"
+  },
+  "status": 422,
+  "clerkTraceId": "c036632d7cb555edf6eac1389d88057e",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "628384ec4fdab942ab5229f4"
+  },
+  "status": 422,
+  "clerkTraceId": "b5024a059aae3ee0ddb06864b5e79962",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "628386534fdab942ac5d6f30"
+  },
+  "status": 422,
+  "clerkTraceId": "607c28b1aff5cfbb78a332b3b4d902de",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "6283977b4fdab942675ef786"
+  },
+  "status": 422,
+  "clerkTraceId": "00de4daadf4d010cf07826b990ccc342",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "628397c14fdab94e1a16ce22"
+  },
+  "status": 422,
+  "clerkTraceId": "01429d504c05cfeddccd9ce190806e27",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "628397fc4fdab94266651bd4"
+  },
+  "status": 422,
+  "clerkTraceId": "968c554cd8530fe05b4d4446c6906792",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "6283995c4fdab942ac5d6f32"
+  },
+  "status": 422,
+  "clerkTraceId": "3fce2ca141febd31161cac96573de809",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "6283999b4fdab946ea4f3a65"
+  },
+  "status": 422,
+  "clerkTraceId": "d51a6b99ec1deb1f250e1a452a8c59d9",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "628399db4fdab942ab5229f8"
+  },
+  "status": 422,
+  "clerkTraceId": "67322069e3dbf071b06a6e3f3b90cc34",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "6286394e4fdab903e95e1303"
+  },
+  "status": 422,
+  "clerkTraceId": "4d61ffd50d40229bb3326a984739c4ea",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "628b2fd74fdab95b3e6e0ee2"
+  },
+  "status": 422,
+  "clerkTraceId": "a94dd1173a67f68805aa0b7255ee3cf0",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "628ceb264fdab9233d209463"
+  },
+  "status": 422,
+  "clerkTraceId": "d3270c7f2db0cd0fc7acf0761ddd7ad5",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "628ceb564fdab9223c3ad1a2"
+  },
+  "status": 422,
+  "clerkTraceId": "baf92862de855576d6738c08acb21b27",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "628ceb804fdab9234662b152"
+  },
+  "status": 422,
+  "clerkTraceId": "9c76ca0f995c8d1ee509bb10faa38326",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "628ceba64fdab9233d209465"
+  },
+  "status": 422,
+  "clerkTraceId": "0c8a7ce61edc4005b91a6620da9a8453",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "628cebd14fdab9234662b154"
+  },
+  "status": 422,
+  "clerkTraceId": "ad358964b4f8ba73de94e9b3c2efb45c",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "628cec204fdab922392d1303"
+  },
+  "status": 422,
+  "clerkTraceId": "2bd917e186510bb29e469b69ba162466",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "628cec454fdab9223a18dc12"
+  },
+  "status": 422,
+  "clerkTraceId": "92b458cf47136765242fc41bd25715e3",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "628cec654fdab923f573bf02"
+  },
+  "status": 422,
+  "clerkTraceId": "7044e65d0cdff155ed478e02128ea4b2",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "628ceca74fdab9223822e432"
+  },
+  "status": 422,
+  "clerkTraceId": "a91b5e0f1a4db891f38e5a1a4238e61a",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "628cece04fdab9234662b156"
+  },
+  "status": 422,
+  "clerkTraceId": "ac033121b3f6be9fd5202b14edbdee95",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "62a07bac4fdab91cf04ade32"
+  },
+  "status": 422,
+  "clerkTraceId": "b0af1d76df1a57e028b010911856046f",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "62b074554fdab9831d2caf33"
+  },
+  "status": 422,
+  "clerkTraceId": "43a0ef19e4890f02ccee1f28cab3367f",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "62b16ab64fdab97d6538b142"
+  },
+  "status": 422,
+  "clerkTraceId": "5852304acfc4fd9d5b1484c3d1abb86f",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "62b1ae104fdab995d732c742"
+  },
+  "status": 422,
+  "clerkTraceId": "e7f20de9d215700eaf643b0ac3a373a9",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "62b1ae544fdab904d71756e2"
+  },
+  "status": 422,
+  "clerkTraceId": "b726d535b7693f593d2736857c02a334",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "62b1ae8c4fdab97ab53a1a42"
+  },
+  "status": 422,
+  "clerkTraceId": "ea38afc41a3fc7fdd164f4ed6c209bb3",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "62bad57e4fdab966d2543452"
+  },
+  "status": 422,
+  "clerkTraceId": "9a520f4198f8ea10d1bd581df2afd762",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "62bd8f704fdab92a077d68f2"
+  },
+  "status": 422,
+  "clerkTraceId": "1fc119aa0223b14dd02f6f35aa7f0d8d",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "62c67f0b4fdab91d8829bd72"
+  },
+  "status": 422,
+  "clerkTraceId": "fa1f0d215a6eeaef558c618e24b5d0c0",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "62c67f5e4fdab91d875655b4"
+  },
+  "status": 422,
+  "clerkTraceId": "83e8b0fb8d747436309107c2c36bcc8d",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "62d514054fdab912e3797ff2"
+  },
+  "status": 422,
+  "clerkTraceId": "9cf141693a948599cad767ad0a10770a",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "62ecd734da58c07d0a5284a2"
+  },
+  "status": 422,
+  "clerkTraceId": "50fc8891504dce00eb0e565cf9d1be77",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "62f0a676d50e2234062bf042"
+  },
+  "status": 422,
+  "clerkTraceId": "ce1cb7ec4fa637c693752f1fc26770ba",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "62f33bd25a5839149d5d0cd2"
+  },
+  "status": 422,
+  "clerkTraceId": "8d44a0640699ef07f9a7e4ba3f7d6a14",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "62f33cca76b6c950de7c0fb2"
+  },
+  "status": 422,
+  "clerkTraceId": "74a3eb9398ed43f1abffd40a1359ccab",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "62f393a280907925ec48cd22"
+  },
+  "status": 422,
+  "clerkTraceId": "ff606062dfbc621a5e7c706105aa9247",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "62fa2eb97f243952fd42e0a2"
+  },
+  "status": 422,
+  "clerkTraceId": "a1ee9d180d5577696edfd845f5c7786f",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "63073871f07caf40f70833c2"
+  },
+  "status": 422,
+  "clerkTraceId": "ccaa93e70c765f503d0e5c2fc9b64a4c",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "630d94b5b4b81b2bea03c0e3"
+  },
+  "status": 422,
+  "clerkTraceId": "413ce1760becf8256a9b3ed3fb53fc27",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "630ee6ab32e3f6307006bff2"
+  },
+  "status": 422,
+  "clerkTraceId": "52e28312cae1a061d5e0b11ece1c51e1",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "6316ecf74b768d5555105ab2"
+  },
+  "status": 422,
+  "clerkTraceId": "4153ad813930576be5d2d15218b68b86",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "6317331c8ee60e76a37218d3"
+  },
+  "status": 422,
+  "clerkTraceId": "624c3314a6e3ed62651da7be56d54234",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "631733b5c07de5676a5b2e52"
+  },
+  "status": 422,
+  "clerkTraceId": "f54d43c28e20ad4ee4d29b18292b6ac3",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "632842f7b60f9570e1659572"
+  },
+  "status": 422,
+  "clerkTraceId": "ca63288cc6518a1d32372f1d25c0a0f1",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "632b02eb1ec2b504a879c152"
+  },
+  "status": 422,
+  "clerkTraceId": "67d0540468bd8fbcd94f72b968799776",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "63330235559190624627a752"
+  },
+  "status": 422,
+  "clerkTraceId": "4473b85d194e8af23d60f891517ca23d",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "633e74cc908f6075451257d2"
+  },
+  "status": 422,
+  "clerkTraceId": "3038f0fbda9e1d83770e5e5ccecc40cc",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "633e75050e04012ca92ad352"
+  },
+  "status": 422,
+  "clerkTraceId": "358690a1a3079dea9522be13d02cf457",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "63440011e0e6d131707f09f3"
+  },
+  "status": 422,
+  "clerkTraceId": "a2d736a54fca3306a717ddd57ff5bb39",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "634e78b61594684a10317e22"
+  },
+  "status": 422,
+  "clerkTraceId": "2b3736db52694e13a0e46716fa6cf2aa",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "6351174bd765a279223fdf13"
+  },
+  "status": 422,
+  "clerkTraceId": "77ad6291204ee943135f7fdab9cbbcdd",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "63522820f2eb047188731413"
+  },
+  "status": 422,
+  "clerkTraceId": "2b5575d908a3d493f1e387ac2b03367d",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "635a675684568a7f854675a2"
+  },
+  "status": 422,
+  "clerkTraceId": "c65d3bcd447c7a36a54ebedf0bb9ce74",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "636201422da10c75873f36ca"
+  },
+  "issues": [
+    {
+      "code": "invalid_type",
+      "expected": "string",
+      "received": "null",
+      "path": [
+        "last_name"
+      ],
+      "message": "Expected string, received null"
+    }
+  ],
+  "name": "ZodError",
+  "originalLine": 512,
+  "originalColumn": 10
+}
+{
+  "userId": {
+    "$oid": "636230580ba693174e6d5bc5"
+  },
+  "status": 422,
+  "clerkTraceId": "a777c7658a53227d9ed4e3642b29b0a7",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "6363aa6073f2e606f65c2ba2"
+  },
+  "issues": [
+    {
+      "code": "invalid_type",
+      "expected": "string",
+      "received": "null",
+      "path": [
+        "last_name"
+      ],
+      "message": "Expected string, received null"
+    }
+  ],
+  "name": "ZodError",
+  "originalLine": 512,
+  "originalColumn": 10
+}
+{
+  "userId": {
+    "$oid": "63651b8c931e6d4ad412f025"
+  },
+  "status": 422,
+  "clerkTraceId": "1458a7714273677c86598f4f568c4e23",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "636a230135a2921e58570134"
+  },
+  "issues": [
+    {
+      "code": "invalid_type",
+      "expected": "string",
+      "received": "null",
+      "path": [
+        "last_name"
+      ],
+      "message": "Expected string, received null"
+    }
+  ],
+  "name": "ZodError",
+  "originalLine": 512,
+  "originalColumn": 10
+}
+{
+  "userId": {
+    "$oid": "636b4cdfb6aad156a45661c3"
+  },
+  "status": 422,
+  "clerkTraceId": "1da7b4182d3b495d16907a1fde61dc8f",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "636b537e58f596574c684293"
+  },
+  "status": 422,
+  "clerkTraceId": "793e932da1f6b1950d656651a98f26f2",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "637cd9b23fd7b6788253e182"
+  },
+  "status": 422,
+  "clerkTraceId": "b93785191fc0df3da3510d69321f2d3b",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "637e1f3f598b33398a6dd6a3"
+  },
+  "issues": [
+    {
+      "code": "invalid_type",
+      "expected": "string",
+      "received": "null",
+      "path": [
+        "last_name"
+      ],
+      "message": "Expected string, received null"
+    }
+  ],
+  "name": "ZodError",
+  "originalLine": 512,
+  "originalColumn": 10
+}
+{
+  "userId": {
+    "$oid": "6380ae1fb8ecfc3f304f47f4"
+  },
+  "status": 422,
+  "clerkTraceId": "a0a700023072e70035508e6dc1e62116",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "6389d9e1a963f06b2d28a172"
+  },
+  "status": 422,
+  "clerkTraceId": "11ed3934f99743f643b65b28a3997194",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "6389e65f7449cb4e2172f822"
+  },
+  "status": 422,
+  "clerkTraceId": "4a86bd7aaff1ef72f9b5e9bd5bd2bbcf",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "63ac451e644421185b58ed02"
+  },
+  "issues": [
+    {
+      "code": "invalid_type",
+      "expected": "string",
+      "received": "null",
+      "path": [
+        "last_name"
+      ],
+      "message": "Expected string, received null"
+    }
+  ],
+  "name": "ZodError",
+  "originalLine": 512,
+  "originalColumn": 10
+}
+{
+  "userId": {
+    "$oid": "63b590ce0addc93c7b641aa3"
+  },
+  "issues": [
+    {
+      "code": "invalid_type",
+      "expected": "string",
+      "received": "null",
+      "path": [
+        "last_name"
+      ],
+      "message": "Expected string, received null"
+    }
+  ],
+  "name": "ZodError",
+  "originalLine": 512,
+  "originalColumn": 10
+}
+{
+  "userId": {
+    "$oid": "63b69304c6c8e769226d8fb4"
+  },
+  "status": 422,
+  "clerkTraceId": "491b4b916ea321a26a75f937bb7125ca",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "63bbdad8c69f932e0c05d523"
+  },
+  "status": 422,
+  "clerkTraceId": "60ba972beda971ccda7592ba04f0d8c4",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "63bd046f868b71756e1abff2"
+  },
+  "status": 422,
+  "clerkTraceId": "fa6f72c630cd35459e93193ed43facaa",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "63bd4bfe7832506b8b39db23"
+  },
+  "status": 422,
+  "clerkTraceId": "d796a27669581343396ad32cf3d27c47",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "63c8d8677387d74f6c37f3a2"
+  },
+  "issues": [
+    {
+      "code": "invalid_type",
+      "expected": "string",
+      "received": "null",
+      "path": [
+        "last_name"
+      ],
+      "message": "Expected string, received null"
+    }
+  ],
+  "name": "ZodError",
+  "originalLine": 512,
+  "originalColumn": 10
+}
+{
+  "userId": {
+    "$oid": "63c8d9434025fc115a186752"
+  },
+  "issues": [
+    {
+      "code": "invalid_type",
+      "expected": "string",
+      "received": "null",
+      "path": [
+        "last_name"
+      ],
+      "message": "Expected string, received null"
+    }
+  ],
+  "name": "ZodError",
+  "originalLine": 512,
+  "originalColumn": 10
+}
+{
+  "userId": {
+    "$oid": "63cfba5419460454254f99d3"
+  },
+  "issues": [
+    {
+      "code": "invalid_type",
+      "expected": "string",
+      "received": "null",
+      "path": [
+        "last_name"
+      ],
+      "message": "Expected string, received null"
+    }
+  ],
+  "name": "ZodError",
+  "originalLine": 512,
+  "originalColumn": 10
+}
+{
+  "userId": {
+    "$oid": "63d114669b3f0968313ed692"
+  },
+  "status": 422,
+  "clerkTraceId": "dbc75f53b29c11d75ee464c793d39111",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "63d795afb1d84205414b82c5"
+  },
+  "status": 422,
+  "clerkTraceId": "11108f22dd90a731b3e3a0a73448a28d",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "63db97be8b5bb15cf60d93a4"
+  },
+  "status": 422,
+  "clerkTraceId": "efc3caec397443f2baee3a774004bdf6",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "63e1121d15366835605731a2"
+  },
+  "issues": [
+    {
+      "code": "invalid_type",
+      "expected": "string",
+      "received": "null",
+      "path": [
+        "last_name"
+      ],
+      "message": "Expected string, received null"
+    }
+  ],
+  "name": "ZodError",
+  "originalLine": 512,
+  "originalColumn": 10
+}
+{
+  "userId": {
+    "$oid": "63e1127115366835605731a4"
+  },
+  "issues": [
+    {
+      "code": "invalid_type",
+      "expected": "string",
+      "received": "null",
+      "path": [
+        "last_name"
+      ],
+      "message": "Expected string, received null"
+    }
+  ],
+  "name": "ZodError",
+  "originalLine": 512,
+  "originalColumn": 10
+}
+{
+  "userId": {
+    "$oid": "63e256a435769223985d48e4"
+  },
+  "status": 422,
+  "clerkTraceId": "ddf9d24f9a0533343a5ba706628b8c18",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "63e3a1e464477f43e2636342"
+  },
+  "status": 422,
+  "clerkTraceId": "988f474cc37fcbe4cc4812393ce9953c",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "63ededc501f06d43f737ebd5"
+  },
+  "status": 422,
+  "clerkTraceId": "df139785a064c566acea40a16cf00871",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "63edee1201f06d43f737ebd7"
+  },
+  "status": 422,
+  "clerkTraceId": "e2d82114a82a4cea6a4969eaa33f85f8",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "63f36ee96d94da127d407c78"
+  },
+  "status": 422,
+  "clerkTraceId": "d54e71aec0fddd6aff6346e107113d90",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "63f480a23a6b9e6364447842"
+  },
+  "issues": [
+    {
+      "code": "invalid_type",
+      "expected": "string",
+      "received": "null",
+      "path": [
+        "last_name"
+      ],
+      "message": "Expected string, received null"
+    }
+  ],
+  "name": "ZodError",
+  "originalLine": 512,
+  "originalColumn": 10
+}
+{
+  "userId": {
+    "$oid": "63f61457931e053886255472"
+  },
+  "status": 422,
+  "clerkTraceId": "399794bfae64f89372826df6602eadaa",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "63f6153bb2fe621350553952"
+  },
+  "status": 422,
+  "clerkTraceId": "2503c2174743ce65806c1bc7cd5b3cc1",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "63f615cebf400a477d4a0d04"
+  },
+  "status": 422,
+  "clerkTraceId": "a5b0505609332b3c8f04547944832742",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "63f7436baba2242fa96281e2"
+  },
+  "status": 422,
+  "clerkTraceId": "1c2ae61ef58ee44042e31375d93877ed",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "63f743d3aba2242fa96281e4"
+  },
+  "status": 422,
+  "clerkTraceId": "19b0b259785e563d060274139b11e237",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "641840962b254f58f144e0f2"
+  },
+  "status": 422,
+  "clerkTraceId": "33e52314ec24c58960eeb9e2896610f6",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "641840db6dbb9866367d4a64"
+  },
+  "status": 422,
+  "clerkTraceId": "2412244be63250a6ca606f63b97b5502",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "6419ac904e0eb8519b605f95"
+  },
+  "status": 422,
+  "clerkTraceId": "cf662b3b80b4c371de5951431d55aee8",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "641f42770931ca5c9d0fe382"
+  },
+  "issues": [
+    {
+      "code": "invalid_type",
+      "expected": "string",
+      "received": "null",
+      "path": [
+        "last_name"
+      ],
+      "message": "Expected string, received null"
+    }
+  ],
+  "name": "ZodError",
+  "originalLine": 512,
+  "originalColumn": 10
+}
+{
+  "userId": {
+    "$oid": "64366ba088e1325de6033183"
+  },
+  "status": 422,
+  "clerkTraceId": "ab906e923cd6874cd4641704ef7bff36",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "644229ce26dc4f475c70f722"
+  },
+  "status": 422,
+  "clerkTraceId": "bf8353ca5aabfa6c46efd025418a7246",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "644b9e1e05099a42d0515b12"
+  },
+  "status": 422,
+  "clerkTraceId": "7dc1ef14d1b4717b041eafdc633f9f64",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "6458ce1d5ce3e834670e8b93"
+  },
+  "status": 422,
+  "clerkTraceId": "e939cf91f4a3b3d1472aa3468d5c9faa",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "645c885e1745a5726c2ca032"
+  },
+  "issues": [
+    {
+      "code": "invalid_type",
+      "expected": "string",
+      "received": "null",
+      "path": [
+        "last_name"
+      ],
+      "message": "Expected string, received null"
+    }
+  ],
+  "name": "ZodError",
+  "originalLine": 512,
+  "originalColumn": 10
+}
+{
+  "userId": {
+    "$oid": "645c88df57414b52f8553ba3"
+  },
+  "issues": [
+    {
+      "code": "invalid_type",
+      "expected": "string",
+      "received": "null",
+      "path": [
+        "last_name"
+      ],
+      "message": "Expected string, received null"
+    }
+  ],
+  "name": "ZodError",
+  "originalLine": 512,
+  "originalColumn": 10
+}
+{
+  "userId": {
+    "$oid": "64632ff798256a184d0d0b04"
+  },
+  "issues": [
+    {
+      "code": "invalid_type",
+      "expected": "string",
+      "received": "null",
+      "path": [
+        "last_name"
+      ],
+      "message": "Expected string, received null"
+    }
+  ],
+  "name": "ZodError",
+  "originalLine": 512,
+  "originalColumn": 10
+}
+{
+  "userId": {
+    "$oid": "6478848191900c78556841a2"
+  },
+  "issues": [
+    {
+      "code": "invalid_type",
+      "expected": "string",
+      "received": "null",
+      "path": [
+        "last_name"
+      ],
+      "message": "Expected string, received null"
+    }
+  ],
+  "name": "ZodError",
+  "originalLine": 512,
+  "originalColumn": 10
+}
+{
+  "userId": {
+    "$oid": "64802e4b43e63d4a603355b4"
+  },
+  "status": 422,
+  "clerkTraceId": "5e4942e9129f5642c380d1dae8084599",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "649d0a515e47d5651e1adc82"
+  },
+  "status": 422,
+  "clerkTraceId": "85a754b93b22a44980023a489e188d09",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "64abdb29ed52ed37e52d4eb5"
+  },
+  "status": 422,
+  "clerkTraceId": "e89cc37b370d94e66f1c83887eb7cf3e",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "64b666750009be4559176d4e"
+  },
+  "status": 422,
+  "clerkTraceId": "e3d958085c8297d0c5bc85d85c68b94c",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "64b7907e8e4132752d153472"
+  },
+  "status": 422,
+  "clerkTraceId": "f208bd7c37c60d21595c00ca449fcb82",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "64b790c0ecdf372063594bf2"
+  },
+  "status": 422,
+  "clerkTraceId": "4437e124e0c94d9ebe24adeb6d72cc94",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "64b82c4fa339e03eb5429ae4"
+  },
+  "issues": [
+    {
+      "code": "invalid_type",
+      "expected": "string",
+      "received": "null",
+      "path": [
+        "last_name"
+      ],
+      "message": "Expected string, received null"
+    }
+  ],
+  "name": "ZodError",
+  "originalLine": 512,
+  "originalColumn": 10
+}
+{
+  "userId": {
+    "$oid": "64b82d224b8e9e65f539d686"
+  },
+  "issues": [
+    {
+      "code": "invalid_type",
+      "expected": "string",
+      "received": "null",
+      "path": [
+        "last_name"
+      ],
+      "message": "Expected string, received null"
+    }
+  ],
+  "name": "ZodError",
+  "originalLine": 512,
+  "originalColumn": 10
+}
+{
+  "userId": {
+    "$oid": "64b8d47676e6746fa91fd4c2"
+  },
+  "status": 422,
+  "clerkTraceId": "f66f50e7f9ed26540c7fea6a284e8278",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "64b8d4ce8fd3e91e8861aa02"
+  },
+  "status": 422,
+  "clerkTraceId": "bbb0a621414b9f3d931250e9467588b6",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "64dc7615d29a6d14fc22c343"
+  },
+  "status": 422,
+  "clerkTraceId": "763b08976d7338c629c89d120f18fd62",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "64def4375cdb4d712d58bce2"
+  },
+  "status": 422,
+  "clerkTraceId": "4d4c32464de18784406b238e4a915c49",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "64f5b87b6062c656ea3070a2"
+  },
+  "issues": [
+    {
+      "code": "invalid_type",
+      "expected": "string",
+      "received": "null",
+      "path": [
+        "last_name"
+      ],
+      "message": "Expected string, received null"
+    }
+  ],
+  "name": "ZodError",
+  "originalLine": 512,
+  "originalColumn": 10
+}
+{
+  "userId": {
+    "$oid": "64f9cf70973d074721502ab2"
+  },
+  "issues": [
+    {
+      "code": "invalid_type",
+      "expected": "string",
+      "received": "null",
+      "path": [
+        "last_name"
+      ],
+      "message": "Expected string, received null"
+    }
+  ],
+  "name": "ZodError",
+  "originalLine": 512,
+  "originalColumn": 10
+}
+{
+  "userId": {
+    "$oid": "65003ac8269a17022805ff02"
+  },
+  "status": 422,
+  "clerkTraceId": "9d0b2c01351841cc5cde3b15e88f7eda",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "651a76453fa05751b604ccb2"
+  },
+  "issues": [
+    {
+      "code": "invalid_type",
+      "expected": "string",
+      "received": "null",
+      "path": [
+        "last_name"
+      ],
+      "message": "Expected string, received null"
+    }
+  ],
+  "name": "ZodError",
+  "originalLine": 512,
+  "originalColumn": 10
+}
+{
+  "userId": {
+    "$oid": "651e5f02ad037e4a2a282a62"
+  },
+  "status": 422,
+  "clerkTraceId": "87605a8b216842ceeb7d49b04af99b0d",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "65264b15e84f7b22ce2421a2"
+  },
+  "issues": [
+    {
+      "code": "invalid_type",
+      "expected": "string",
+      "received": "null",
+      "path": [
+        "last_name"
+      ],
+      "message": "Expected string, received null"
+    }
+  ],
+  "name": "ZodError",
+  "originalLine": 512,
+  "originalColumn": 10
+}
+{
+  "userId": {
+    "$oid": "652e4a7126992128b6672163"
+  },
+  "status": 422,
+  "clerkTraceId": "00d26e239ce214089d4bcb6acf355ef5",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "6531038a20cc60532b270625"
+  },
+  "status": 422,
+  "clerkTraceId": "f840b61b7a897890f3aa24b69dbd0cdc",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "65378fb107bfd532aa078f16"
+  },
+  "status": 422,
+  "clerkTraceId": "536ae45d2231b2734b9c2bc08b6af543",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "6537c4d655461537fa4df8f3"
+  },
+  "status": 422,
+  "clerkTraceId": "9b1f4492a8fe2901b24629b3b8994778",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "65392ba5d36b8d6712740308"
+  },
+  "status": 422,
+  "clerkTraceId": "d1af192853ab602fee7f1f85cba931fe",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "65392c0c2083b50e775947e4"
+  },
+  "status": 422,
+  "clerkTraceId": "d55235768471a4f479fdd9b63871e960",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "654345105c631316565daf13"
+  },
+  "status": 422,
+  "clerkTraceId": "c8038684fa8349637205a1ce50cbf5de",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "65434554427daf014c001515"
+  },
+  "status": 422,
+  "clerkTraceId": "c7c6b7a1c2f32e9c86339c4dfe4ea2f5",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "userId": {
+    "$oid": "654cd9000e26583350053a85"
+  },
+  "status": 422,
+  "clerkTraceId": "128dfb084dc0b35bf44d2d736cf8b60c",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_password_pwned",
+      "message": "Password has been found in an online data breach.  For account safety, please use a different password.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
