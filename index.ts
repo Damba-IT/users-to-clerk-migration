@@ -65,7 +65,7 @@ const createUser = async (userData: User) => {
     superAdmin: userData.super_admin ?? false,
   };
 
-  // eller kör bara utan lösenord för alla
+  // run this 2 times. The second time remove the condition and only createUser without password
   return userData.password &&
     userData.password.length >= 8 &&
     !userData.password.startsWith("123")
@@ -74,7 +74,7 @@ const createUser = async (userData: User) => {
         emailAddress: [userData.email],
         firstName: userData.first_name,
         lastName: userData.last_name,
-        //phoneNumber: [formattedPhone], //not working for some reason
+        //phoneNumber: [formattedPhone], //not working for some reason. invetigate this
         privateMetadata: privateMetaData,
         publicMetadata: publicMetadata,
         password: userData.password,
@@ -84,7 +84,7 @@ const createUser = async (userData: User) => {
         emailAddress: [userData.email],
         firstName: userData.first_name,
         lastName: userData.last_name,
-        //phoneNumber: [formattedPhone], //not working for some reason
+        //phoneNumber: [formattedPhone],
         privateMetadata: privateMetaData,
         publicMetadata: publicMetadata,
         skipPasswordRequirement: true,
