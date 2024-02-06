@@ -65,7 +65,7 @@ const createUser = async (userData: User) => {
     superAdmin: userData.super_admin ?? false,
   };
 
-  // run this 2 times. The second time remove the condition and only createUser without password
+  // run this 2 times. The second time remove the condition (startwith 123+ .length >=8) and only createUser without password
   return userData.password &&
     userData.password.length >= 8 &&
     !userData.password.startsWith("123")
