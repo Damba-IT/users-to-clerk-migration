@@ -1,0 +1,154 @@
+
+{
+  "organizationId": {
+    "$oid": "5c6be4e04fdab923eb522ef2"
+  },
+  "status": 422,
+  "clerkTraceId": "3fa1f09b35c92ce6d0c1e5ae684b6afb",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_param_format_invalid",
+      "message": "Slug is invalid. Can contain only lowercase characters, digits and '-'.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "organizationId": {
+    "$oid": "5cf0d93c4fdab97ea42fd4c2"
+  },
+  "status": 422,
+  "clerkTraceId": "8ab8e3030cab278e2a22472ee28dae58",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_identifier_exists",
+      "message": "That slug is taken. Please try another.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "organizationId": {
+    "$oid": "5e3bfd2e4fdab9201e438df2"
+  },
+  "status": 422,
+  "clerkTraceId": "3b8209a999c9b14c426d0e8776d23eec",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_identifier_exists",
+      "message": "That slug is taken. Please try another.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "organizationId": {
+    "$oid": "5fe9dbff4fdab91e800da132"
+  },
+  "status": 422,
+  "clerkTraceId": "abd6d51c3fd3d5eee99b915e2f59c87d",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_param_format_invalid",
+      "message": "Slug is invalid. Can contain only lowercase characters, digits and '-'.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "organizationId": {
+    "$oid": "6110c7074fdab922f45fc0b3"
+  },
+  "status": 422,
+  "clerkTraceId": "d5101e6a3883e4b7cbc1f131f0716d3c",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_param_format_invalid",
+      "message": "Slug is invalid. Can contain only lowercase characters, digits and '-'.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "organizationId": {
+    "$oid": "615c6b9b4fdab9406a77f762"
+  },
+  "status": 422,
+  "clerkTraceId": "d50b089b1db8e0936199a84421cc516a",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_param_format_invalid",
+      "message": "Slug is invalid. Can contain only lowercase characters, digits and '-'.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "organizationId": {
+    "$oid": "626fb2914fdab92ebc39c833"
+  },
+  "status": 422,
+  "clerkTraceId": "f79dee2d76f1ab394ce072d807e65f6c",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_param_format_invalid",
+      "message": "Slug is invalid. Can contain only lowercase characters, digits and '-'.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "organizationId": {
+    "$oid": "62a861e54fdab980ca0aaf62"
+  },
+  "status": 422,
+  "clerkTraceId": "c828d90903a893c99ed0ae4183977d5c",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_param_format_invalid",
+      "message": "Slug is invalid. Can contain only lowercase characters, digits and '-'.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}
+{
+  "organizationId": {
+    "$oid": "651e5c8083797162dd2d4f23"
+  },
+  "status": 422,
+  "clerkTraceId": "0a88abdc3183056308bc5958c35a6bdb",
+  "clerkError": true,
+  "errors": [
+    {
+      "code": "form_param_format_invalid",
+      "message": "Slug is invalid. Can contain only lowercase characters, digits and '-'.",
+      "meta": {}
+    }
+  ],
+  "originalLine": 155,
+  "originalColumn": 12
+}

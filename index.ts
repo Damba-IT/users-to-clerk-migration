@@ -38,7 +38,6 @@ const userSchema = z.object({
   mobile_organization_id: z.string().optional(),
   role_id: z.string().optional(),
   super_admin: z.boolean().optional(),
-  // ... other fields as necessary
 });
 
 type User = z.infer<typeof userSchema>;

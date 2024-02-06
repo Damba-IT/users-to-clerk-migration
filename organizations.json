@@ -1,0 +1,875 @@
+[{
+  "_id": {
+    "$oid": "5bcdabc8a4dbbb3e34002cb5"
+  },
+  "organization_name": "Aalpha Information",
+  "first_name": "Pawan",
+  "email": "pawan@aalpha.net",
+  "password": "123456",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "last_name": "Pawar",
+  "updated_at": {
+    "$date": "2019-02-14T08:42:29.000Z"
+  },
+  "created_at": {
+    "$date": "2018-10-22T10:51:52.000Z"
+  },
+  "has_shipment_module": true,
+  "has_logistics_module": true
+},
+{
+  "_id": {
+    "$oid": "5bd35238e549570b1f1a3273"
+  },
+  "organization_name": "Bonava",
+  "first_name": "Mahan",
+  "email": "mahan.vosoughi@goodfolks.se",
+  "password": "12345678",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "last_name": "Vosoughi",
+  "updated_at": {
+    "$date": "2022-01-24T09:04:25.000Z"
+  },
+  "created_at": {
+    "$date": "2018-10-26T17:43:20.000Z"
+  },
+  "status": true,
+  "has_shipment_module": true,
+  "has_logistics_module": false
+},
+{
+  "_id": {
+    "$oid": "5c3c422f4fdab96ec77e6902"
+  },
+  "organization_name": "Q-Gruppen",
+  "first_name": "Admin",
+  "email": "admin@projsite.com",
+  "password": "123456",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "last_name": "Support",
+  "updated_at": {
+    "$date": "2020-02-06T11:59:08.000Z"
+  },
+  "created_at": {
+    "$date": "2019-01-14T08:02:55.000Z"
+  },
+  "has_shipment_module": true,
+  "has_logistics_module": false,
+  "status": false
+},
+{
+  "_id": {
+    "$oid": "5c3c8d174fdab976762a3d92"
+  },
+  "organization_name": "test",
+  "first_name": "test",
+  "email": "mahan.vos@gmail.com",
+  "password": "123456",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "last_name": "testsson",
+  "updated_at": {
+    "$date": "2019-01-14T13:22:31.000Z"
+  },
+  "created_at": {
+    "$date": "2019-01-14T13:22:31.000Z"
+  },
+  "has_shipment_module": true,
+  "has_logistics_module": false
+},
+{
+  "_id": {
+    "$oid": "5c4edef14fdab90ef51adf02"
+  },
+  "organization_name": "Swerock",
+  "first_name": "Swerock",
+  "email": "swerock@projsite.com",
+  "password": "12345678",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "last_name": "Projsite",
+  "updated_at": {
+    "$date": "2019-01-28T10:52:33.000Z"
+  },
+  "created_at": {
+    "$date": "2019-01-28T10:52:33.000Z"
+  },
+  "has_shipment_module": true,
+  "has_logistics_module": false
+},
+{
+  "_id": {
+    "$oid": "5c666d7a4fdab929980d6852"
+  },
+  "organization_name": "Testar med logistik",
+  "first_name": "Mahan",
+  "email": "mahan.vosoughi@goodfolks.se",
+  "password": "123456",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": true,
+  "has_shipment_module": true,
+  "last_name": "Vosoughi",
+  "updated_at": {
+    "$date": "2019-02-15T07:42:50.000Z"
+  },
+  "created_at": {
+    "$date": "2019-02-15T07:42:50.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5c6bce8c4fdab920677a9dd2"
+  },
+  "organization_name": "Good Folks Tollare",
+  "first_name": "Mahan",
+  "email": "mahan.vosoughi@goodfolks.se",
+  "password": "bg9YpBNF",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": false,
+  "has_shipment_module": true,
+  "last_name": "Vosoughi",
+  "updated_at": {
+    "$date": "2019-02-19T11:12:45.000Z"
+  },
+  "created_at": {
+    "$date": "2019-02-19T09:38:20.000Z"
+  },
+  "status": false
+},
+{
+  "_id": {
+    "$oid": "5c6be4e04fdab923eb522ef2"
+  },
+  "organization_name": "Good Folks Tollare/Nacka",
+  "first_name": "Veroncia",
+  "email": "veronica.melin@goodfolks.se",
+  "password": "123456",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": false,
+  "has_shipment_module": true,
+  "last_name": "Melin",
+  "updated_at": {
+    "$date": "2019-02-19T11:13:36.000Z"
+  },
+  "created_at": {
+    "$date": "2019-02-19T11:13:36.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5c7417804fdab94fb919c132"
+  },
+  "organization_name": "Demo-Projsite",
+  "first_name": "Demo",
+  "email": "demo@projsite.com",
+  "password": "123456",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": false,
+  "has_shipment_module": true,
+  "last_name": "Projsite",
+  "updated_at": {
+    "$date": "2019-02-25T16:27:44.000Z"
+  },
+  "created_at": {
+    "$date": "2019-02-25T16:27:44.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5cadbe734fdab95f1b16a012"
+  },
+  "organization_name": "Ahlsell",
+  "first_name": "Anders",
+  "email": "anders.ivarsson@ahlsell.se",
+  "password": "22Kgh5",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": true,
+  "has_shipment_module": false,
+  "last_name": "Ivarsson",
+  "updated_at": {
+    "$date": "2019-05-07T12:49:45.000Z"
+  },
+  "created_at": {
+    "$date": "2019-04-10T09:59:15.000Z"
+  },
+  "status": false
+},
+{
+  "_id": {
+    "$oid": "5cc6d7684fdab97f5374e582"
+  },
+  "organization_name": "Ext Forsen projekt",
+  "first_name": "Johan",
+  "email": "johan.svensson@extforsenprojekt.se",
+  "password": "123456",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": true,
+  "has_shipment_module": false,
+  "last_name": "Svensson",
+  "updated_at": {
+    "$date": "2019-12-27T12:57:31.000Z"
+  },
+  "created_at": {
+    "$date": "2019-04-29T10:52:24.000Z"
+  },
+  "status": false
+},
+{
+  "_id": {
+    "$oid": "5ce25d4b4fdab955323ae2b2"
+  },
+  "organization_name": "FM-Management",
+  "first_name": "Test",
+  "email": "test@projsite.com",
+  "password": "123456",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": true,
+  "has_shipment_module": false,
+  "last_name": "Projsite",
+  "updated_at": {
+    "$date": "2019-12-27T12:57:38.000Z"
+  },
+  "created_at": {
+    "$date": "2019-05-20T07:54:51.000Z"
+  },
+  "status": false
+},
+{
+  "_id": {
+    "$oid": "5ceb55e94fdab9795d5ee3a2"
+  },
+  "organization_name": "Cramo Logistik1",
+  "first_name": "Cramo",
+  "email": "Test@projsite.com",
+  "password": "123456",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": true,
+  "has_shipment_module": false,
+  "last_name": "Admin",
+  "updated_at": {
+    "$date": "2019-05-27T03:22:11.000Z"
+  },
+  "created_at": {
+    "$date": "2019-05-27T03:13:45.000Z"
+  },
+  "status": false
+},
+{
+  "_id": {
+    "$oid": "5ceb582e4fdab9044a385892"
+  },
+  "organization_name": "Cramo logistik",
+  "first_name": "Cramo",
+  "email": "Cramo@projsite.com",
+  "password": "123456",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": true,
+  "has_shipment_module": false,
+  "last_name": "Logistik",
+  "updated_at": {
+    "$date": "2019-12-27T12:56:34.000Z"
+  },
+  "created_at": {
+    "$date": "2019-05-27T03:23:26.000Z"
+  },
+  "status": false
+},
+{
+  "_id": {
+    "$oid": "5cf0d93c4fdab97ea42fd4c2"
+  },
+  "organization_name": "FM Management",
+  "first_name": "FM",
+  "email": "fmmanagement@projsite.com",
+  "password": "123456",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": true,
+  "has_shipment_module": false,
+  "last_name": "Management",
+  "updated_at": {
+    "$date": "2019-12-27T12:57:35.000Z"
+  },
+  "created_at": {
+    "$date": "2019-05-31T07:35:24.000Z"
+  },
+  "status": false
+},
+{
+  "_id": {
+    "$oid": "5d10b6af4fdab9665930fe02"
+  },
+  "organization_name": "Fridhemsplan",
+  "first_name": "Fridhemsplan",
+  "email": "fridhemsplan@projsite.com",
+  "password": "123456",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": true,
+  "has_shipment_module": true,
+  "last_name": "Projsite",
+  "updated_at": {
+    "$date": "2019-06-24T11:40:31.000Z"
+  },
+  "created_at": {
+    "$date": "2019-06-24T11:40:31.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5d7239454fdab9526350a2b2"
+  },
+  "organization_name": "LiU Exjobb",
+  "first_name": "Mahan",
+  "email": "mahan.vosoughi@goodfolks.se",
+  "password": "bg9YpBNF",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": true,
+  "has_shipment_module": false,
+  "last_name": "Vosoughi",
+  "updated_at": {
+    "$date": "2019-09-06T10:47:33.000Z"
+  },
+  "created_at": {
+    "$date": "2019-09-06T10:47:33.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5e06196d4fdab913b87cb1d2"
+  },
+  "organization_name": "engun",
+  "first_name": "Ahmed",
+  "email": "berivan.ayranci@goodfolks.se",
+  "password": "123456",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": true,
+  "has_shipment_module": true,
+  "last_name": "Hassan",
+  "updated_at": {
+    "$date": "2021-01-04T13:56:34.000Z"
+  },
+  "created_at": {
+    "$date": "2019-12-27T14:47:09.000Z"
+  },
+  "status": false
+},
+{
+  "_id": {
+    "$oid": "5e10a7d84fdab957253fdc02"
+  },
+  "organization_name": "MvBAB",
+  "first_name": "Henrik",
+  "email": "henrik.wiberg@mvbab.se",
+  "password": "123456",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": false,
+  "has_shipment_module": true,
+  "last_name": "Wiberg",
+  "updated_at": {
+    "$date": "2020-01-05T15:43:00.000Z"
+  },
+  "created_at": {
+    "$date": "2020-01-04T14:57:28.000Z"
+  },
+  "status": false
+},
+{
+  "_id": {
+    "$oid": "5e3bfd2e4fdab9201e438df2"
+  },
+  "organization_name": "Q-gruppen",
+  "first_name": "Gamze",
+  "email": "gamze.gurbuz@goodfolks.se",
+  "password": "123456",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": true,
+  "has_shipment_module": true,
+  "last_name": "Gurbuz",
+  "updated_at": {
+    "$date": "2020-02-06T11:49:02.000Z"
+  },
+  "created_at": {
+    "$date": "2020-02-06T11:49:02.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5ee344024fdab95f667ab522"
+  },
+  "organization_name": "Skanska",
+  "first_name": "Ahmed",
+  "email": "Ahmed@goodfolks.se",
+  "password": "1234567",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": true,
+  "has_shipment_module": true,
+  "last_name": "Hassan",
+  "updated_at": {
+    "$date": "2020-06-12T11:52:06.000Z"
+  },
+  "created_at": {
+    "$date": "2020-06-12T08:59:46.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5fb845054fdab967c315b6e2"
+  },
+  "organization_name": "Robels Test organisation",
+  "first_name": "Robel",
+  "email": "robel@projsite.com",
+  "password": "Martinelli2020",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": true,
+  "has_shipment_module": false,
+  "last_name": null,
+  "updated_at": {
+    "$date": "2023-05-25T04:55:12.000Z"
+  },
+  "created_at": {
+    "$date": "2020-11-20T22:36:53.000Z"
+  },
+  "logo": "",
+  "salvege_enabled": false,
+  "delivery_coordinator": "5fb845054fdab967c315b6e3"
+},
+{
+  "_id": {
+    "$oid": "5fe9dbff4fdab91e800da132"
+  },
+  "organization_name": "Zengun / Bilia",
+  "first_name": "Berivan",
+  "email": "berivan.ayranci@goodfolks.se",
+  "password": "---------------",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": true,
+  "has_shipment_module": true,
+  "last_name": "Ayranci",
+  "updated_at": {
+    "$date": "2020-12-28T13:25:33.000Z"
+  },
+  "created_at": {
+    "$date": "2020-12-28T13:22:07.000Z"
+  },
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "5ff30b394fdab96f497d3892"
+  },
+  "organization_name": "Z",
+  "first_name": "Ahmed",
+  "email": "ahmed.hassan@goodfolks.se",
+  "password": "---------------",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": true,
+  "has_shipment_module": true,
+  "last_name": "Hassan",
+  "updated_at": {
+    "$date": "2022-11-17T09:50:58.000Z"
+  },
+  "created_at": {
+    "$date": "2021-01-04T12:34:01.000Z"
+  },
+  "marketplace_enabled": false
+},
+{
+  "_id": {
+    "$oid": "5ffeb87c4fdab911f579a042"
+  },
+  "organization_name": "Zengun",
+  "first_name": "Charlie",
+  "email": "mahan.vosoughi@goodfolks.se",
+  "password": "---------------",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": false,
+  "has_shipment_module": true,
+  "last_name": "Steen",
+  "updated_at": {
+    "$date": "2023-10-05T06:48:48.000Z"
+  },
+  "created_at": {
+    "$date": "2021-01-13T09:08:12.000Z"
+  },
+  "marketplace_enabled": false,
+  "salvege_enabled": false,
+  "logo": "2023_01_281674932530PkOQ0zengun_logo.svg",
+  "delivery_coordinator": "6299abb34fdab94358494d52"
+},
+{
+  "_id": {
+    "$oid": "6040da604fdab964371e8cf2"
+  },
+  "organization_name": "Zengun AB 2",
+  "first_name": "Ahmed",
+  "email": "ahmed.hassan@goodfolks.se",
+  "password": "---------------",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": false,
+  "has_shipment_module": true,
+  "last_name": "Hassan",
+  "updated_at": {
+    "$date": "2021-03-04T14:19:42.000Z"
+  },
+  "created_at": {
+    "$date": "2021-03-04T13:02:24.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "607988db4fdab90c1f1f2f42"
+  },
+  "organization_name": "2050 Test",
+  "first_name": "Robel",
+  "email": "robel@projsite.com",
+  "password": "---------------",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": true,
+  "has_shipment_module": true,
+  "last_name": "Selemun",
+  "updated_at": {
+    "$date": "2021-04-16T12:53:47.000Z"
+  },
+  "created_at": {
+    "$date": "2021-04-16T12:53:47.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "610d32544fdab962357758e2"
+  },
+  "organization_name": "Bocken 39",
+  "first_name": "Gamze",
+  "email": "berivan.ayranci@goodfolks.se",
+  "password": "---------------",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": false,
+  "has_shipment_module": true,
+  "last_name": "Gurbuz",
+  "updated_at": {
+    "$date": "2022-11-04T14:01:47.000Z"
+  },
+  "created_at": {
+    "$date": "2021-08-06T13:00:04.000Z"
+  },
+  "marketplace_enabled": false
+},
+{
+  "_id": {
+    "$oid": "6110c7074fdab922f45fc0b3"
+  },
+  "organization_name": "Zengun AB/Bocken 39",
+  "first_name": "Berivan",
+  "email": "berivan.ayranci@goodfolks.se",
+  "password": "---------------",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": true,
+  "has_shipment_module": true,
+  "last_name": "Ayranci",
+  "updated_at": {
+    "$date": "2021-08-09T06:16:00.000Z"
+  },
+  "created_at": {
+    "$date": "2021-08-09T06:11:19.000Z"
+  },
+  "status": false
+},
+{
+  "_id": {
+    "$oid": "6110c7bc4fdab93bb7676234"
+  },
+  "organization_name": "test234",
+  "first_name": "Mahan",
+  "email": "mahan.vosoughi@goodfolks.se",
+  "password": "---------------",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": true,
+  "has_shipment_module": false,
+  "last_name": "Vosoughi",
+  "updated_at": {
+    "$date": "2022-02-05T10:49:21.000Z"
+  },
+  "created_at": {
+    "$date": "2021-08-09T06:14:20.000Z"
+  },
+  "status": false
+},
+{
+  "_id": {
+    "$oid": "615c6b9b4fdab9406a77f762"
+  },
+  "organization_name": "E.L",
+  "first_name": "Ahmed",
+  "email": "ahmed.hassan@goodfolks.se",
+  "password": "---------------",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": true,
+  "has_shipment_module": true,
+  "last_name": "Hassan",
+  "updated_at": {
+    "$date": "2021-10-05T15:13:31.000Z"
+  },
+  "created_at": {
+    "$date": "2021-10-05T15:13:31.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b84fbb4fdab911891df4c2"
+  },
+  "organization_name": "Personalbemanning",
+  "first_name": "Berivan",
+  "email": "berivan.ayranci@goodfolks.se",
+  "password": "---------------",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": true,
+  "has_shipment_module": true,
+  "last_name": "Ayranci",
+  "updated_at": {
+    "$date": "2023-07-18T08:30:58.000Z"
+  },
+  "created_at": {
+    "$date": "2021-12-14T08:03:07.000Z"
+  },
+  "status": false
+},
+{
+  "_id": {
+    "$oid": "6204bd984fdab963034cfac2"
+  },
+  "organization_name": "Ahlsell Demo Ab",
+  "first_name": "Anders",
+  "email": "Demo@ahsell.se",
+  "password": "12345678",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "has_logistics_module": true,
+  "has_shipment_module": true,
+  "last_name": "Ivarsson",
+  "updated_at": {
+    "$date": "2022-02-10T07:27:55.000Z"
+  },
+  "created_at": {
+    "$date": "2022-02-10T07:24:08.000Z"
+  },
+  "status": false
+},
+{
+  "_id": {
+    "$oid": "62386d354fdab918ab457522"
+  },
+  "organization_name": "GF",
+  "first_name": "Gamze",
+  "email": "goodfolks@projsite.com",
+  "password": "12345678",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "last_name": "Gurbuz",
+  "updated_at": {
+    "$date": "2022-11-04T09:59:53.000Z"
+  },
+  "created_at": {
+    "$date": "2022-03-21T12:19:01.000Z"
+  },
+  "status": true,
+  "marketplace_enabled": false
+},
+{
+  "_id": {
+    "$oid": "62678e294fdab999216f1072"
+  },
+  "organization_name": "Besqab Projektutveckling AB",
+  "first_name": "Sara",
+  "email": "sara.sjoberg@madisonbygg.se",
+  "password": "151515",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "last_name": "Sjoberg",
+  "updated_at": {
+    "$date": "2022-04-26T06:16:09.000Z"
+  },
+  "created_at": {
+    "$date": "2022-04-26T06:16:09.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "626fb2914fdab92ebc39c833"
+  },
+  "organization_name": "Delområde Berg",
+  "first_name": "Andreas",
+  "email": "cristina.aguilar@nobolog.se",
+  "password": "12345678",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "last_name": null,
+  "updated_at": {
+    "$date": "2023-02-23T08:46:39.000Z"
+  },
+  "created_at": {
+    "$date": "2022-05-02T10:29:37.000Z"
+  },
+  "marketplace_enabled": false,
+  "salvege_enabled": false,
+  "logo": "2023_01_301675059081TSswfSkärmbild2023-01-30070927.jpg",
+  "delivery_coordinator": "635fcb51599c66262a58ea42"
+},
+{
+  "_id": {
+    "$oid": "62a861e54fdab980ca0aaf62"
+  },
+  "organization_name": "SÖS",
+  "first_name": "Dexter",
+  "email": "Forssad99@gmail.com",
+  "password": "---------------",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "last_name": null,
+  "updated_at": {
+    "$date": "2023-02-23T09:19:37.000Z"
+  },
+  "created_at": {
+    "$date": "2022-06-14T10:24:37.000Z"
+  },
+  "delivery_coordinator": "629702d54fdab94053145c02"
+},
+{
+  "_id": {
+    "$oid": "6364e2b859b6f274284b3255"
+  },
+  "organization_name": "Good Folks Sweden AB",
+  "first_name": "Mostafa",
+  "email": "mostafa.hassan@goodfolks.se",
+  "password": "---------------",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "marketplace_enabled": false,
+  "last_name": "Hassan",
+  "updated_at": {
+    "$date": "2022-11-04T10:00:24.000Z"
+  },
+  "created_at": {
+    "$date": "2022-11-04T10:00:24.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63651b8c931e6d4ad412f024"
+  },
+  "organization_name": "Zengun AB",
+  "first_name": "Soran",
+  "email": "Soran.khalaf@zengun.se",
+  "password": "12345678",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "marketplace_enabled": false,
+  "last_name": "Khalaf",
+  "updated_at": {
+    "$date": "2022-11-04T14:02:52.000Z"
+  },
+  "created_at": {
+    "$date": "2022-11-04T14:02:52.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d524c7c9ac03252d1d3a32"
+  },
+  "organization_name": "Rash Test Organization",
+  "first_name": "Rash",
+  "email": "rashmipragya1@gmail.com",
+  "password": "123",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "salvege_enabled": true,
+  "last_name": null,
+  "updated_at": {
+    "$date": "2023-02-27T06:43:10.000Z"
+  },
+  "created_at": {
+    "$date": "2023-01-28T13:36:07.000Z"
+  },
+  "delivery_coordinator": "63d524c7c9ac03252d1d3a34"
+},
+{
+  "_id": {
+    "$oid": "641aaba3c7f26b74c31fbf62"
+  },
+  "organization_name": "Ivar test organization",
+  "first_name": "Ivar",
+  "email": "ivarthoren@hotmail.com",
+  "password": "---------------",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "salvege_enabled": true,
+  "last_name": "Thorén",
+  "updated_at": {
+    "$date": "2023-03-22T07:17:55.000Z"
+  },
+  "created_at": {
+    "$date": "2023-03-22T07:17:55.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "641aad5391644d088c402142"
+  },
+  "organization_name": "test ivar",
+  "first_name": "Ivar",
+  "email": "ivarthoren@hotmail.com",
+  "password": "---------------",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "salvege_enabled": false,
+  "last_name": "Thorén",
+  "updated_at": {
+    "$date": "2023-03-22T07:25:07.000Z"
+  },
+  "created_at": {
+    "$date": "2023-03-22T07:25:07.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b64210c56c3a05662b9452"
+  },
+  "organization_name": "Good Folks AB",
+  "first_name": "Gamze",
+  "email": "gamze@projsite.com",
+  "password": "---------------",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "salvege_enabled": false,
+  "last_name": null,
+  "updated_at": {
+    "$date": "2023-07-18T08:30:31.000Z"
+  },
+  "created_at": {
+    "$date": "2023-07-18T07:41:04.000Z"
+  },
+  "delivery_coordinator": "62f0d9a9468aad0e54296db2",
+  "logo": "2023_07_181689666292gLpsoGoodfolksLogoJPG.jpg",
+  "status": false
+},
+{
+  "_id": {
+    "$oid": "64b6455970bc880959050334"
+  },
+  "organization_name": "JV100",
+  "first_name": "Gamze",
+  "email": "gamze@projsite.com",
+  "password": "---------------",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "salvege_enabled": false,
+  "last_name": "Gürbüz",
+  "updated_at": {
+    "$date": "2023-07-18T07:55:05.000Z"
+  },
+  "created_at": {
+    "$date": "2023-07-18T07:55:05.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "651e5c8083797162dd2d4f23"
+  },
+  "organization_name": "Zengun.",
+  "first_name": "Hanna",
+  "email": "gamze@projsite.com",
+  "password": "---------------",
+  "role_id": "5ba1ec5582539a8d5593e43d",
+  "salvege_enabled": false,
+  "last_name": "Nordin",
+  "updated_at": {
+    "$date": "2023-10-05T07:02:00.000Z"
+  },
+  "created_at": {
+    "$date": "2023-10-05T06:49:36.000Z"
+  }
+}]
